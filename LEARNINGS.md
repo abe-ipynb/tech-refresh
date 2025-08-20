@@ -9,3 +9,6 @@
 ### Date: 18-08-2025
 - Getting the hang of it
 - Really need to carve 2hrs a day not 1
+### Date: 19-08-2025
+- Twitter should be only in transit/passing moments, if I'm gonna sit down then do Karpathy learning
+- Feels good to be busy again
