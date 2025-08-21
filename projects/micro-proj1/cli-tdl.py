@@ -1,4 +1,5 @@
-#cli boilerplate
+#!/usr/bin/env python3
+# cli-tdl.py - A simple command-line todo list application
 
 import sys
 import os
