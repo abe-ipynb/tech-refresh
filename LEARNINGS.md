@@ -12,3 +12,5 @@
 ### Date: 19-08-2025
 - Twitter should be only in transit/passing moments, if I'm gonna sit down then do Karpathy learning
 - Feels good to be busy again
+### Date: 21-08-2025
+- Sometimes you have a 6 hour train ride and feel like doing nothing, you have to defeat that.
